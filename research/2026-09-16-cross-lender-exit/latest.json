@@ -1,9 +1,9 @@
 {
-  "snapshot_dir": "snapshots/2026-10-18T1750Z",
-  "fetched_at": "2026-10-18T17:54:41Z",
+  "snapshot_dir": "snapshots/2026-10-19T1059Z",
+  "fetched_at": "2026-10-19T11:03:39Z",
   "totals": {
-    "pledged": 38944529,
-    "sellable5": 4151253,
-    "coverage": 0.1066
+    "pledged": 38999168,
+    "sellable5": 4589810,
+    "coverage": 0.1177
   }
 }
