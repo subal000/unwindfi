@@ -1,0 +1,489 @@
+{
+ "fetched_at": "2026-11-22T20:55:59Z",
+ "stocks": {
+  "2HehXG149TXuVptQhbiWAWDjbbuCsXSAtLTB5wc2aajK": {
+   "issuer": "superstate",
+   "usdPrice": null,
+   "share": 11.83,
+   "decimals": 6
+  },
+  "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1": {
+   "issuer": "backpack",
+   "usdPrice": 619.0690897512301,
+   "share": 610.573,
+   "decimals": 6
+  },
+  "SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3": {
+   "issuer": "backpack",
+   "usdPrice": 109.80150307216259,
+   "share": 106.377,
+   "decimals": 6
+  },
+  "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH": {
+   "issuer": "backpack",
+   "usdPrice": 83.2361947622835,
+   "share": 81.406,
+   "decimals": 6
+  },
+  "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
+   "issuer": "backpack",
+   "usdPrice": 131.27642949113172,
+   "share": 129.574,
+   "decimals": 6
+  },
+  "Xs78JED6PFZxWc2wCEPspZW9kL3Se5J7L5TChKgsidH": {
+   "issuer": "xstocks",
+   "usdPrice": 95.15014400535019,
+   "share": 93.58,
+   "decimals": 8
+  },
+  "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ": {
+   "issuer": "xstocks",
+   "usdPrice": 626.9441382601927,
+   "share": 617.727,
+   "decimals": 8
+  },
+  "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN": {
+   "issuer": "xstocks",
+   "usdPrice": 275.1737952797683,
+   "share": 270.178,
+   "decimals": 8
+  },
+  "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB": {
+   "issuer": "xstocks",
+   "usdPrice": 359.1425039086556,
+   "share": 351.048,
+   "decimals": 8
+  },
+  "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ": {
+   "issuer": "xstocks",
+   "usdPrice": 82.44234829635239,
+   "share": 79.377,
+   "decimals": 8
+  },
+  "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu": {
+   "issuer": "xstocks",
+   "usdPrice": 574.5305469614561,
+   "share": 567.99,
+   "decimals": 8
+  },
+  "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp": {
+   "issuer": "xstocks",
+   "usdPrice": 349.0812898248808,
+   "share": 344.9,
+   "decimals": 8
+  },
+  "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh": {
+   "issuer": "xstocks",
+   "usdPrice": 132.93009841987828,
+   "share": 130.014,
+   "decimals": 8
+  },
+  "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W": {
+   "issuer": "xstocks",
+   "usdPrice": 702.6047008803571,
+   "share": 697.434,
+   "decimals": 8
+  },
+  "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1": {
+   "issuer": "xstocks",
+   "usdPrice": 50.26607280466702,
+   "share": 48.931,
+   "decimals": 8
+  },
+  "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg": {
+   "issuer": "xstocks",
+   "usdPrice": 66.01533449838644,
+   "share": 64.11,
+   "decimals": 8
+  }
+ },
+ "kamino": {
+  "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W": {
+   "usd": 6615089.413865575,
+   "symbol": "SPYx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 3384949.8541005882,
+     "maxLtv": "0.73"
+    },
+    {
+     "market": "8BNUWRSibVasaAmhYpBCFpGgMisGKfVAf9ho3Cmf6vjr",
+     "usd": 3230139.5597649864,
+     "maxLtv": "0.72"
+    }
+   ]
+  },
+  "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ": {
+   "usd": 4504866.071346701,
+   "symbol": "QQQx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 3472663.8313088864,
+     "maxLtv": "0.7"
+    },
+    {
+     "market": "8BNUWRSibVasaAmhYpBCFpGgMisGKfVAf9ho3Cmf6vjr",
+     "usd": 1032202.2400378146,
+     "maxLtv": "0.7"
+    }
+   ]
+  },
+  "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg": {
+   "usd": 240469.8238988578,
+   "symbol": "HOODx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 240469.8238988578,
+     "maxLtv": "0.3"
+    }
+   ]
+  },
+  "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN": {
+   "usd": 3185387.7245106935,
+   "symbol": "GOOGLx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 3185387.7245106935,
+     "maxLtv": "0.6"
+    }
+   ]
+  },
+  "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1": {
+   "usd": 672145.5330002595,
+   "symbol": "CRCLx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 672145.5330002595,
+     "maxLtv": "0.3"
+    }
+   ]
+  },
+  "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB": {
+   "usd": 2348286.86709519,
+   "symbol": "TSLAx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 2348286.86709519,
+     "maxLtv": "0.55"
+    }
+   ]
+  },
+  "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh": {
+   "usd": 2528366.3592386497,
+   "symbol": "NVDAx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 1631208.3099780309,
+     "maxLtv": "0.55"
+    },
+    {
+     "market": "8BNUWRSibVasaAmhYpBCFpGgMisGKfVAf9ho3Cmf6vjr",
+     "usd": 897158.0492606189,
+     "maxLtv": "0.62"
+    }
+   ]
+  },
+  "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu": {
+   "usd": 0.5628905427541745,
+   "symbol": "METAx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 0.5628905427541745,
+     "maxLtv": "0.35"
+    }
+   ]
+  },
+  "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp": {
+   "usd": 267866.1596629379,
+   "symbol": "AAPLx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 267866.1596629379,
+     "maxLtv": "0.4"
+    }
+   ]
+  },
+  "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ": {
+   "usd": 6431462.094967411,
+   "symbol": "MSTRx",
+   "markets": [
+    {
+     "market": "5wJeMrUYECGq41fxRESKALVcHnNX26TAWy4W98yULsua",
+     "usd": 6431462.094967411,
+     "maxLtv": "0.3"
+    }
+   ]
+  },
+  "2HehXG149TXuVptQhbiWAWDjbbuCsXSAtLTB5wc2aajK": {
+   "usd": 18.99197066592,
+   "symbol": "GLXY",
+   "markets": [
+    {
+     "market": "CF32kn7AY8X1bW7ZkGcHc4X9ZWTxqKGCJk6QwrQkDcdw",
+     "usd": 18.99197066592,
+     "maxLtv": "0.3"
+    }
+   ]
+  },
+  "Xs78JED6PFZxWc2wCEPspZW9kL3Se5J7L5TChKgsidH": {
+   "usd": 402157.9591450237,
+   "symbol": "STRCx",
+   "markets": [
+    {
+     "market": "B7a2Dmdnfg8zfZX2814d6Xo6ctxs22jnTuCcjTq5KcPD",
+     "usd": 402157.9591450237,
+     "maxLtv": "0.5"
+    }
+   ]
+  },
+  "SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3": {
+   "usd": 12399.625639556,
+   "symbol": "SKHY",
+   "markets": [
+    {
+     "market": "4iRHKGsTq3e4uut6e4PfyV9AEbNuXaMu9JaSP378p9qy",
+     "usd": 12399.625639556,
+     "maxLtv": "0.4"
+    }
+   ]
+  },
+  "SNDKbwMUQvZhnLnxLduradgLHG5KrPuKwpnrkkGRhfH": {
+   "usd": 5284.461666783394,
+   "symbol": "SNDK",
+   "markets": [
+    {
+     "market": "4iRHKGsTq3e4uut6e4PfyV9AEbNuXaMu9JaSP378p9qy",
+     "usd": 5284.461666783394,
+     "maxLtv": "0.3"
+    }
+   ]
+  },
+  "MUxEsUKSMACyw5fZf68wxf5FLnZVhtU9CwH8uNNGay1": {
+   "usd": 38188.513806041796,
+   "symbol": "MU",
+   "markets": [
+    {
+     "market": "4iRHKGsTq3e4uut6e4PfyV9AEbNuXaMu9JaSP378p9qy",
+     "usd": 38188.513806041796,
+     "maxLtv": "0.4"
+    }
+   ]
+  },
+  "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb": {
+   "usd": 725816.203681685,
+   "symbol": "SPCX",
+   "markets": [
+    {
+     "market": "4iRHKGsTq3e4uut6e4PfyV9AEbNuXaMu9JaSP378p9qy",
+     "usd": 725816.203681685,
+     "maxLtv": "0.3"
+    }
+   ]
+  }
+ },
+ "jupiter_lend": {
+  "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB": {
+   "usd": 1200563.6614693445,
+   "symbol": "TSLAx",
+   "vaults": [
+    {
+     "vault": "5f561RUPHDqRh98W62FdaYjHCqEvwzV7ePHXszdfQC5Z",
+     "usd": 858802.9116206482,
+     "collateralFactor": "650",
+     "liquidationThreshold": "750",
+     "borrowSymbol": "USDC"
+    },
+    {
+     "vault": "3zvPLKm39qtTzqRg3i5N1cLKEvW7eqq7Pojzvkn4VreQ",
+     "usd": 341760.74984869617,
+     "collateralFactor": "650",
+     "liquidationThreshold": "750",
+     "borrowSymbol": "JupUSD"
+    }
+   ]
+  },
+  "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W": {
+   "usd": 7159008.690367785,
+   "symbol": "SPYx",
+   "vaults": [
+    {
+     "vault": "9ewVy9vTQ1R5Kgp5VDaygXU59z1k6H3AZhoaNyeKMYEr",
+     "usd": 6474270.995032285,
+     "collateralFactor": "750",
+     "liquidationThreshold": "850",
+     "borrowSymbol": "USDC"
+    },
+    {
+     "vault": "DdfzCbtHxKFAUsBCkdc5Jdi1hadfoYeBzbNpxBDWKRN5",
+     "usd": 684737.6953355002,
+     "collateralFactor": "750",
+     "liquidationThreshold": "850",
+     "borrowSymbol": "JupUSD"
+    }
+   ]
+  },
+  "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ": {
+   "usd": 781896.4223152954,
+   "symbol": "QQQx",
+   "vaults": [
+    {
+     "vault": "Fsn7PpTfBbdKi9MCjNWzq49uzJ2jSPsKRquMhHALjW6o",
+     "usd": 612073.0136331826,
+     "collateralFactor": "750",
+     "liquidationThreshold": "850",
+     "borrowSymbol": "USDC"
+    },
+    {
+     "vault": "EdepRi812J9QcPjaCiRq8UZ56b4WPWWr2BKis8XtAP7H",
+     "usd": 169823.40868211284,
+     "collateralFactor": "750",
+     "liquidationThreshold": "850",
+     "borrowSymbol": "JupUSD"
+    }
+   ]
+  },
+  "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh": {
+   "usd": 1270625.5129278738,
+   "symbol": "NVDAx",
+   "vaults": [
+    {
+     "vault": "Dnrc3CxMiDbcLPNaDVFZKf8SapkbQE6Az2obcKfWwBke",
+     "usd": 1172241.1537825707,
+     "collateralFactor": "650",
+     "liquidationThreshold": "750",
+     "borrowSymbol": "USDC"
+    },
+    {
+     "vault": "14R6LgJe6UNmExr3FgaYVqLgDh219ayRUUBpZuQwHzzm",
+     "usd": 98384.35914530292,
+     "collateralFactor": "650",
+     "liquidationThreshold": "750",
+     "borrowSymbol": "JupUSD"
+    }
+   ]
+  }
+ },
+ "loopscale_llama": {
+  "date": 1795375595,
+  "tokens": {
+   "SOL": 837593.9902,
+   "JUP": 9323.51865,
+   "USDC": 10248783.93475,
+   "JLP": 691619.70159,
+   "USDT": 109373.83787,
+   "USDG": 1223441.34115,
+   "CBBTC": 203912.505,
+   "USDS": 282.85132,
+   "PT-BULKSOL-26FEB26": 11149.89835,
+   "SHYUSD": 4404956.03872,
+   "HYLOSOL": 1119848.16492,
+   "INF": 85744.33672,
+   "JUPSOL": 2126596.06135,
+   "JITOSOL": 365122.77405,
+   "MET": 469.09454,
+   "RAY": 0.02125,
+   "BONK": 1496052.99535,
+   "HSOL": 144.98754,
+   "SYRUPUSDC": 85962.92785,
+   "WBTC": 403.49545,
+   "STKESOL": 151677.38392,
+   "JTO": 855.55138,
+   "BSOL": 10.76352,
+   "HYLOSOL+": 127319.76363,
+   "MSOL": 10305.31959,
+   "PYUSD": 723.21506,
+   "BBSOL": 99.83014,
+   "WIF": 1889.95505,
+   "PUMP": 190.05156,
+   "ZBTC": 395959.33329,
+   "XBTC": 52719.15434,
+   "ORCA": 0.31593,
+   "W": 0.29861,
+   "PICOSOL": 2558.19301,
+   "$WEN": 848.4378,
+   "WETH": 38271.06162,
+   "EZSOL": 14.59867,
+   "DRIFT": 0.00587,
+   "GOAT": 14.30099,
+   "HNT": 0.25675,
+   "HYPE": 415.56086,
+   "PYTH": 80.77122,
+   "BONKSOL": 91.87291,
+   "VSOL": 21.56601,
+   "LANTERNSOL": 62.80759,
+   "MON": 459.93175,
+   "POPCAT": 39.55462,
+   "HYUSD": 178562.45788,
+   "JUPUSD": 36.04334,
+   "CASH": 4.41441,
+   "USX": 17401.76632,
+   "ONYC": 19798864.90319,
+   "WFRAGBTC": 48950.99419,
+   "ALP": 2.24471,
+   "EXPONENT PT-FRAGSOL-10JUL25": 32876.97523,
+   "XSOL": 297813.40095,
+   "MLP-USDC-USDT": 6073.15116,
+   "WFRAGSOL": 60863.98072,
+   "CRCLX": 447.85854,
+   "SSOL": 3280.12389,
+   "EXPONENT PT-KYSOL-14JUN25": 200.06188,
+   "TESOURO": 6687.75689,
+   "PT-USX-09FEB26": 2204.18294,
+   "LRTSSOL": 1272.80548,
+   "DBR": 1970.56273,
+   "PST": 511217.2847,
+   "EUSX": 200.53441,
+   "EXPONENT PT-ONYC-10JAN27": 3238864.38971,
+   "PT-FRAGSOL-12FEB26": 2907.72259,
+   "SUSDE": 3728.41008,
+   "PT-ONYC-10SEP26": 205.71335,
+   "GOLD": 307.98925,
+   "PRIME": 589378.00803,
+   "PT-EUSX-11MAR26": 81.82501,
+   "SPYX": 42.98597,
+   "SUSD.INFRA": 152.03995,
+   "PUDGY PENGUINS": 819.32344,
+   "EXPONENT PT-USX-16SEP26": 1410.12764,
+   "GRASS": 0.02359,
+   "NVDAX": 144.65977,
+   "TSLAX": 6276.63718,
+   "EXPONENT PT-FRAGSOL-31OCT25": 2534.34841,
+   "ACRED": 2102178.9944,
+   "STRONGSOL": 544.61953,
+   "CETES": 6176.25394,
+   "EXPONENT PT-SRONYC-10JAN27": 1181167.05659,
+   "EXPONENT PT-EUSX-16SEP26": 2893.7589,
+   "KYSOL": 1787.09974,
+   "PT-USX-01JUN26": 128.89716,
+   "USCC": 1034.84831,
+   "KMNO": 0.0823,
+   "MSTRX": 31.66443,
+   "RKUSOL": 4422.83911,
+   "USD*": 0.02097,
+   "AAPLX": 701.75888,
+   "QQQX": 4.05666,
+   "DEFINSOL": 6.32762,
+   "JUICED": 6186.82231,
+   "SECZ": 81553.64417,
+   "PT-EUSX-01JUN26": 0.31174,
+   "USD.INFRA": 7271554.05084,
+   "SLX": 962.89579,
+   "WYLDS": 1228.15989,
+   "TGBP": 26121.87231,
+   "MXNE": 48004.74456,
+   "BRZ": 8958.72812
+  }
+ },
+ "kamino_all_total_usd": 1909483559.8180168,
+ "jupiter_all_total_usd": 980315651.4619452
+}
